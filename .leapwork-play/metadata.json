@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-06T16:45:23.361Z",
+  "repo": {
+    "connectorId": 269,
+    "repoSlug": "sahilgarg11/AIStudio-Test",
+    "baseBranch": "tamanbranch"
+  },
+  "team": {
+    "assetId": 28057,
+    "displayId": "TM-1",
+    "name": "Sahil Team"
+  },
+  "tree": [
+    {
+      "assetId": 28058,
+      "displayId": "TC-1",
+      "name": "sahil",
+      "kind": "test-case",
+      "repoPath": "TC-1-sahil.spec.ts"
+    }
+  ],
+  "files": [
+    {
+      "assetId": 28058,
+      "assetKind": "test-case",
+      "displayId": "TC-1",
+      "name": "sahil",
+      "repoPath": "TC-1-sahil.spec.ts",
+      "parentAssetId": 28057
+    }
+  ]
+}
