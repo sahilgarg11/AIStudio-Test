@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-06T17:33:44.413Z",
+  "repo": {
+    "connectorId": 5,
+    "repoSlug": "sahilgarg11/AIStudio-Test",
+    "baseBranch": "featurre/git-team"
+  },
+  "team": {
+    "assetId": 272,
+    "displayId": "TM-1",
+    "name": "Git"
+  },
+  "tree": [
+    {
+      "assetId": 273,
+      "displayId": "TC-1",
+      "name": "Test Case 1",
+      "kind": "test-case",
+      "repoPath": "TC-1-Test-Case-1.spec.ts"
+    }
+  ],
+  "files": [
+    {
+      "assetId": 273,
+      "assetKind": "test-case",
+      "displayId": "TC-1",
+      "name": "Test Case 1",
+      "repoPath": "TC-1-Test-Case-1.spec.ts",
+      "parentAssetId": 272
+    }
+  ]
+}
