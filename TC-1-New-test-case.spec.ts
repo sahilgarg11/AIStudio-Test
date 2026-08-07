@@ -10,4 +10,4 @@ leapwork.configuration({
       ?? leapwork.workspace.settings.get("enableSelfHeal")) !== "false",
 });
 
-// filr from git
+// file from git 2
