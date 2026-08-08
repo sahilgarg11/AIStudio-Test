@@ -1,63 +1,33 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-08T09:24:33.322Z",
+  "generatedAt": "2026-08-08T09:44:58.866Z",
   "repo": {
-    "connectorId": 7,
+    "connectorId": 10,
     "repoSlug": "sahilgarg11/AIStudio-Test",
     "baseBranch": "feature/git2"
   },
   "team": {
-    "assetId": 304,
+    "assetId": 306,
     "displayId": "TM-1",
     "name": "Git 2"
   },
   "tree": [
     {
-      "assetId": 308,
+      "assetId": 312,
       "displayId": "TC-1",
-      "name": "Test 1",
+      "name": "New test case",
       "kind": "test-case",
-      "repoPath": "TC-1-Test-1.spec.ts"
-    },
-    {
-      "assetId": 309,
-      "displayId": "TC-2",
-      "name": "Test 2",
-      "kind": "test-case",
-      "repoPath": "TC-2-Test-2.spec.ts"
-    },
-    {
-      "assetId": 310,
-      "displayId": "TC-3",
-      "name": "Test 3",
-      "kind": "test-case",
-      "repoPath": "TC-3-Test-3.spec.ts"
+      "repoPath": "TC-1-New-test-case.spec.ts"
     }
   ],
   "files": [
     {
-      "assetId": 308,
+      "assetId": 312,
       "assetKind": "test-case",
       "displayId": "TC-1",
-      "name": "Test 1",
-      "repoPath": "TC-1-Test-1.spec.ts",
-      "parentAssetId": 304
-    },
-    {
-      "assetId": 309,
-      "assetKind": "test-case",
-      "displayId": "TC-2",
-      "name": "Test 2",
-      "repoPath": "TC-2-Test-2.spec.ts",
-      "parentAssetId": 304
-    },
-    {
-      "assetId": 310,
-      "assetKind": "test-case",
-      "displayId": "TC-3",
-      "name": "Test 3",
-      "repoPath": "TC-3-Test-3.spec.ts",
-      "parentAssetId": 304
+      "name": "New test case",
+      "repoPath": "TC-1-New-test-case.spec.ts",
+      "parentAssetId": 306
     }
   ]
 }
