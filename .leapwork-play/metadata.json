@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-08T09:56:01.145Z",
+  "generatedAt": "2026-08-08T09:57:16.775Z",
   "repo": {
     "connectorId": 10,
     "repoSlug": "sahilgarg11/AIStudio-Test",
@@ -15,9 +15,9 @@
     {
       "assetId": 312,
       "displayId": "TC-1",
-      "name": "Test 2",
+      "name": "Sahil",
       "kind": "test-case",
-      "repoPath": "TC-1-Test-2.spec.ts"
+      "repoPath": "TC-1-Sahil.spec.ts"
     }
   ],
   "files": [
@@ -25,8 +25,8 @@
       "assetId": 312,
       "assetKind": "test-case",
       "displayId": "TC-1",
-      "name": "Test 2",
-      "repoPath": "TC-1-Test-2.spec.ts",
+      "name": "Sahil",
+      "repoPath": "TC-1-Sahil.spec.ts",
       "parentAssetId": 306
     }
   ]
