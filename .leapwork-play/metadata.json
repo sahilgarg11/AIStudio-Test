@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-06T17:33:44.413Z",
+  "generatedAt": "2026-08-08T09:01:19.299Z",
   "repo": {
     "connectorId": 5,
     "repoSlug": "sahilgarg11/AIStudio-Test",
@@ -12,6 +12,181 @@
     "name": "Git"
   },
   "tree": [
+    {
+      "assetId": 286,
+      "displayId": "TC-10",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-10-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 287,
+      "displayId": "TC-11",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-11-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 288,
+      "displayId": "TC-12",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-12-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 289,
+      "displayId": "TC-13",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-13-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 290,
+      "displayId": "TC-14",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-14-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 291,
+      "displayId": "TC-15",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-15-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 292,
+      "displayId": "TC-16",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-16-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 293,
+      "displayId": "TC-17",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-17-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 294,
+      "displayId": "TC-18",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-18-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 295,
+      "displayId": "TC-19",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-19-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 296,
+      "displayId": "TC-20",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-20-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 297,
+      "displayId": "TC-21",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-21-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 298,
+      "displayId": "TC-22",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-22-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 299,
+      "displayId": "TC-23",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-23-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 300,
+      "displayId": "TC-24",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-24-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 301,
+      "displayId": "TC-25",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-25-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 302,
+      "displayId": "TC-26",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-26-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 303,
+      "displayId": "TC-27",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-27-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 279,
+      "displayId": "TC-3",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-3-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 280,
+      "displayId": "TC-4",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-4-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 281,
+      "displayId": "TC-5",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-5-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 282,
+      "displayId": "TC-6",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-6-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 283,
+      "displayId": "TC-7",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-7-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 284,
+      "displayId": "TC-8",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-8-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 285,
+      "displayId": "TC-9",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-9-New-test-case.spec.ts"
+    },
     {
       "assetId": 273,
       "displayId": "TC-1",
@@ -27,6 +202,206 @@
       "displayId": "TC-1",
       "name": "Test Case 1",
       "repoPath": "TC-1-Test-Case-1.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 286,
+      "assetKind": "test-case",
+      "displayId": "TC-10",
+      "name": "New test case",
+      "repoPath": "TC-10-New-test-case.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 287,
+      "assetKind": "test-case",
+      "displayId": "TC-11",
+      "name": "New test case",
+      "repoPath": "TC-11-New-test-case.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 288,
+      "assetKind": "test-case",
+      "displayId": "TC-12",
+      "name": "New test case",
+      "repoPath": "TC-12-New-test-case.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 289,
+      "assetKind": "test-case",
+      "displayId": "TC-13",
+      "name": "New test case",
+      "repoPath": "TC-13-New-test-case.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 290,
+      "assetKind": "test-case",
+      "displayId": "TC-14",
+      "name": "New test case",
+      "repoPath": "TC-14-New-test-case.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 291,
+      "assetKind": "test-case",
+      "displayId": "TC-15",
+      "name": "New test case",
+      "repoPath": "TC-15-New-test-case.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 292,
+      "assetKind": "test-case",
+      "displayId": "TC-16",
+      "name": "New test case",
+      "repoPath": "TC-16-New-test-case.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 293,
+      "assetKind": "test-case",
+      "displayId": "TC-17",
+      "name": "New test case",
+      "repoPath": "TC-17-New-test-case.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 294,
+      "assetKind": "test-case",
+      "displayId": "TC-18",
+      "name": "New test case",
+      "repoPath": "TC-18-New-test-case.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 295,
+      "assetKind": "test-case",
+      "displayId": "TC-19",
+      "name": "New test case",
+      "repoPath": "TC-19-New-test-case.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 296,
+      "assetKind": "test-case",
+      "displayId": "TC-20",
+      "name": "New test case",
+      "repoPath": "TC-20-New-test-case.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 297,
+      "assetKind": "test-case",
+      "displayId": "TC-21",
+      "name": "New test case",
+      "repoPath": "TC-21-New-test-case.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 298,
+      "assetKind": "test-case",
+      "displayId": "TC-22",
+      "name": "New test case",
+      "repoPath": "TC-22-New-test-case.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 299,
+      "assetKind": "test-case",
+      "displayId": "TC-23",
+      "name": "New test case",
+      "repoPath": "TC-23-New-test-case.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 300,
+      "assetKind": "test-case",
+      "displayId": "TC-24",
+      "name": "New test case",
+      "repoPath": "TC-24-New-test-case.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 301,
+      "assetKind": "test-case",
+      "displayId": "TC-25",
+      "name": "New test case",
+      "repoPath": "TC-25-New-test-case.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 302,
+      "assetKind": "test-case",
+      "displayId": "TC-26",
+      "name": "New test case",
+      "repoPath": "TC-26-New-test-case.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 303,
+      "assetKind": "test-case",
+      "displayId": "TC-27",
+      "name": "New test case",
+      "repoPath": "TC-27-New-test-case.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 279,
+      "assetKind": "test-case",
+      "displayId": "TC-3",
+      "name": "New test case",
+      "repoPath": "TC-3-New-test-case.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 280,
+      "assetKind": "test-case",
+      "displayId": "TC-4",
+      "name": "New test case",
+      "repoPath": "TC-4-New-test-case.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 281,
+      "assetKind": "test-case",
+      "displayId": "TC-5",
+      "name": "New test case",
+      "repoPath": "TC-5-New-test-case.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 282,
+      "assetKind": "test-case",
+      "displayId": "TC-6",
+      "name": "New test case",
+      "repoPath": "TC-6-New-test-case.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 283,
+      "assetKind": "test-case",
+      "displayId": "TC-7",
+      "name": "New test case",
+      "repoPath": "TC-7-New-test-case.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 284,
+      "assetKind": "test-case",
+      "displayId": "TC-8",
+      "name": "New test case",
+      "repoPath": "TC-8-New-test-case.spec.ts",
+      "parentAssetId": 272
+    },
+    {
+      "assetId": 285,
+      "assetKind": "test-case",
+      "displayId": "TC-9",
+      "name": "New test case",
+      "repoPath": "TC-9-New-test-case.spec.ts",
       "parentAssetId": 272
     }
   ]
