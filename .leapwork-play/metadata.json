@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-08T09:57:16.775Z",
+  "generatedAt": "2026-08-08T10:01:35.687Z",
   "repo": {
     "connectorId": 10,
     "repoSlug": "sahilgarg11/AIStudio-Test",
@@ -13,20 +13,20 @@
   },
   "tree": [
     {
-      "assetId": 312,
-      "displayId": "TC-1",
-      "name": "Sahil",
+      "assetId": 313,
+      "displayId": "TC-2",
+      "name": "Taman",
       "kind": "test-case",
-      "repoPath": "TC-1-Sahil.spec.ts"
+      "repoPath": "TC-2-Taman.spec.ts"
     }
   ],
   "files": [
     {
-      "assetId": 312,
+      "assetId": 313,
       "assetKind": "test-case",
-      "displayId": "TC-1",
-      "name": "Sahil",
-      "repoPath": "TC-1-Sahil.spec.ts",
+      "displayId": "TC-2",
+      "name": "Taman",
+      "repoPath": "TC-2-Taman.spec.ts",
       "parentAssetId": 306
     }
   ]
