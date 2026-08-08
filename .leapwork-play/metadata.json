@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-08T09:20:19.434Z",
+  "generatedAt": "2026-08-08T09:24:33.322Z",
   "repo": {
-    "connectorId": 6,
+    "connectorId": 7,
     "repoSlug": "sahilgarg11/AIStudio-Test",
     "baseBranch": "feature/git2"
   },
@@ -25,6 +25,13 @@
       "name": "Test 2",
       "kind": "test-case",
       "repoPath": "TC-2-Test-2.spec.ts"
+    },
+    {
+      "assetId": 310,
+      "displayId": "TC-3",
+      "name": "Test 3",
+      "kind": "test-case",
+      "repoPath": "TC-3-Test-3.spec.ts"
     }
   ],
   "files": [
@@ -42,6 +49,14 @@
       "displayId": "TC-2",
       "name": "Test 2",
       "repoPath": "TC-2-Test-2.spec.ts",
+      "parentAssetId": 304
+    },
+    {
+      "assetId": 310,
+      "assetKind": "test-case",
+      "displayId": "TC-3",
+      "name": "Test 3",
+      "repoPath": "TC-3-Test-3.spec.ts",
       "parentAssetId": 304
     }
   ]
