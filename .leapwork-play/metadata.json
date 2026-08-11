@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-11T10:23:04.662Z",
+  "repo": {
+    "connectorId": 51,
+    "repoSlug": "sahilgarg11/AIStudio-Test",
+    "baseBranch": "feature/git-team-dev"
+  },
+  "team": {
+    "assetId": 4037,
+    "displayId": "TM-2",
+    "name": "Git"
+  },
+  "tree": [
+    {
+      "assetId": 4121,
+      "displayId": "TC-6",
+      "name": "Chat",
+      "kind": "test-case",
+      "repoPath": "TC-6-Chat.spec.ts"
+    }
+  ],
+  "files": [
+    {
+      "assetId": 4121,
+      "assetKind": "test-case",
+      "displayId": "TC-6",
+      "name": "Chat",
+      "repoPath": "TC-6-Chat.spec.ts",
+      "parentAssetId": 4037
+    }
+  ]
+}
