@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-12T14:16:21.520Z",
+  "repo": {
+    "connectorId": 14,
+    "repoSlug": "sahilgarg11/AIStudio-Test",
+    "baseBranch": "feature/sahil-prd-12-08"
+  },
+  "team": {
+    "assetId": 5,
+    "displayId": "TM-1",
+    "name": "My Team"
+  },
+  "tree": [
+    {
+      "assetId": 6,
+      "displayId": "TC-1",
+      "name": "Getting started test case",
+      "kind": "test-case",
+      "repoPath": "TC-1-Getting-started-test-case.spec.ts"
+    },
+    {
+      "assetId": 93,
+      "displayId": "TC-2",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-2-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 120,
+      "displayId": "TC-3",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-3-New-test-case.spec.ts"
+    }
+  ],
+  "files": [
+    {
+      "assetId": 6,
+      "assetKind": "test-case",
+      "displayId": "TC-1",
+      "name": "Getting started test case",
+      "repoPath": "TC-1-Getting-started-test-case.spec.ts",
+      "parentAssetId": 5
+    },
+    {
+      "assetId": 93,
+      "assetKind": "test-case",
+      "displayId": "TC-2",
+      "name": "New test case",
+      "repoPath": "TC-2-New-test-case.spec.ts",
+      "parentAssetId": 5
+    },
+    {
+      "assetId": 120,
+      "assetKind": "test-case",
+      "displayId": "TC-3",
+      "name": "New test case",
+      "repoPath": "TC-3-New-test-case.spec.ts",
+      "parentAssetId": 5
+    }
+  ]
+}
